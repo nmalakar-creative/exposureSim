@@ -1,0 +1,5 @@
+%%writefile requirements.txt
+numpy
+matplotlib
+ipywidgets
+scikit-image
